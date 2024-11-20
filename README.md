@@ -16,4 +16,4 @@ bun dev
 
 Откройте [http://localhost:3000](http://localhost:3000) чтобы увидеть результат
 
-Чтобы посмотреть сайт без загрузки перейдите по [https://mos-gov-test-task-livid.vercel.app](ссылке)
+Чтобы посмотреть сайт без загрузки перейдите по [ссылке](https://mos-gov-test-task-livid.vercel.app)
